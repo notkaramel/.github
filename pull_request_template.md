@@ -38,3 +38,5 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Any dependent changes have been merged and published in downstream modules
 
 > The above template was taken from [this link](https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/)
+>
+> GitHub Documentation on [PR Template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
