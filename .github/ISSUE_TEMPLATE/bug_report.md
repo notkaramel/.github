@@ -1,5 +1,5 @@
 ---
-name: Issue
+name: Issue/Bug
 about: Report a problem or bug of the project
 title: '[BUG]'
 labels: 'issue/bug'

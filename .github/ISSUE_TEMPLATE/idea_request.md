@@ -1,8 +1,8 @@
 ---
-name: Request - Idea, Feature, or Enhancement
+name: Idea, Feature, or Enhancement Request
 about: Suggest your idea for this project
 title: '[REQUEST]'
-labels: ''
+labels: 'enhancement'
 assignees: ''
 ---
 
