@@ -8,5 +8,8 @@ body:
     attributes:
       value: |
         **Please describe your issue here**
+  - type: textarea
+    attributes:
+      label: "What's wrong?"
 
 
