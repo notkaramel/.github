@@ -1,7 +1,12 @@
 name: Project Linkage
 description: Temporary template, pls don't use this 
 title: '[TEMP] '
-labels: ''
+labels: 'test'
 projects: "notkaramel/3"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please describe your issue here**
 
 
