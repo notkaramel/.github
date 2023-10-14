@@ -3,7 +3,7 @@ description: Temporary template, pls don't use this
 title: '[TEMP] '
 labels: 'test'
 projects: "notkaramel/3"
-  - status: "Tasks"
+project_status: "Tasks"
 body:
   - type: dropdown
     id: version
