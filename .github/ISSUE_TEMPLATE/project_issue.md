@@ -4,6 +4,6 @@ about: Temporary template, pls don't use this
 title: '[TEMP]'
 labels: ''
 assignees: ''
-projects: 'notkaramel/3'
+projects: "notkaramel/3"
 ---
 
