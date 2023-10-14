@@ -1,0 +1,41 @@
+name: Project Linkage
+description: Temporary template, pls don't use this 
+title: '[TEMP] '
+labels: 'Pull Request'
+projects: "notkaramel/3"
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: "What version of the product are you using?"
+      description: "Please select the version you are using"
+      options:
+        - "1.0"
+        - "2.0"
+        - "3.0"
+      default: 1
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: "What's the title of the issue?"
+      description: "Please provide a brief description of the issue"
+      placeholder: "e.g. I can't log in to my account"
+  - type: markdown
+    attributes:
+      value: |
+        **Please describe your issue here**
+  - type: textarea
+    attributes:
+      label: "What's wrong?"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+
+
